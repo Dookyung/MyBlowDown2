@@ -1,2 +1,2 @@
-# MyBlowDown2
-My new web
+# MyBlogDown
+My academic blg
